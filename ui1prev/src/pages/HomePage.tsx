@@ -61,9 +61,9 @@ export function HomePage() {
                 Get Started
                 <ArrowRight className="w-5 h-5 inline-block ml-2" />
               </button>
-              <button className="cyber-button bg-gray-800 hover:bg-gray-700">
+              <button className="cyber-button bg-gray-850 hover:bg-gray-700">
                 Learn More
-                <ChevronDown className="w-5 h-5 inline-block ml-2" />
+                <ChevronDown className="w-5 h-5 inline-block ml-2" 
               </button>
             </div>
           </div>
